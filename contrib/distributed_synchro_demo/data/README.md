@@ -2,7 +2,7 @@
 
 Resulting structure of this folder for a network with 13 acoustic nodes:
 
-readme.md<br />
+README.md<br />
 room_model.stl<br />
 json/<br />
     &emsp; positions.json<br />
