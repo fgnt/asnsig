@@ -1,4 +1,4 @@
-Please, place the downloaded data inside this directory.
+#### Please, place the downloaded data inside this directory.
 
 Resulting structure of this folder for a network with 13 acoustic nodes:
 
@@ -29,8 +29,6 @@ audio/<br />
         &emsp;&emsp; node_3_mic_0.wav<br />
         &emsp;&emsp; node_4_mic_0.wav<br />
         &emsp;&emsp; node_5_mic_0.wav<br />
-        &emsp;&emsp; wav<br />
-        &emsp;&emsp; wav<br />
         &emsp;&emsp; node_8_mic_0.wav<br />
         &emsp;&emsp; node_9_mic_0.wav<br />
         &emsp;&emsp; node_10_mic_0.wav<br />
